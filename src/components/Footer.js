@@ -12,7 +12,7 @@ const FooterWrapper = styled.footer`
 const Footer = () => {
   return (
     <FooterWrapper>
-      <p>You can Order a Pizza and enjoy every bite Pizza</p>
+      <p>You can Order a Pizza and enjoy every bite of Pizza</p>
     </FooterWrapper>
   );
 };
